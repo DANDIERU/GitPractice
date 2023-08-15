@@ -1,1 +1,3 @@
 Buenas noches, este es mi primer archivo de Git
+
+Good bye, nos vemos pronto
